@@ -1,2 +1,2 @@
 # RISC_processor
-A single cycle RISC microprocessor developed using Verilog and run on Spartan 3 FPGA.
+A simple RISC microprocessor developed in Verilog Hardware Description Language, simulated on Xilinx ISE and tested on Spartan3 FPGA. 
